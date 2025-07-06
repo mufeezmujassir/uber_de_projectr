@@ -8,6 +8,29 @@
 
 
 
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mage.ai specific
+mage_data/
+mage_logs/
+default_repo/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
 
 
 
